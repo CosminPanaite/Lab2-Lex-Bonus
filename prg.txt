@@ -1,0 +1,4 @@
+begin
+int a, b, 2c;
+a= 13
+b = 12
