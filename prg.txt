@@ -1,0 +1,17 @@
+VARRIABLE
+    s:INTEGER;
+    d:INTEGER;
+    
+START
+    s:=0;
+    d:=5;
+
+    waitwhile d>0
+    {
+
+    	s:=s+d;
+    	d:=d-1;
+
+    }
+    write(s);
+FINISH
